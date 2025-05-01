@@ -23,4 +23,3 @@ The detailed report explaining each step is included as [report.pdf](./report.pd
 ## 📁 Folder Structure
 - `notebook.ipynb` – Full code
 - `report.pdf` – Final report
-```
